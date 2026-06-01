@@ -2,6 +2,12 @@
 
 A simple desktop app that converts YouTube links to an MP3 file with its cover art embedded, ready to use with Spotify Local Files.
 
+## Preview
+
+<div align="center">
+  <img src="assets/screenshot.png" alt="ytbLinks2Mp3 preview" width="500"/>
+</div>
+
 ## Features
 
 - Paste a YouTube URL and convert it to MP3 in one click
